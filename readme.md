@@ -25,5 +25,5 @@ On the side i'm on and off learning Rust and breaking stuff for "research".
 
 ---
 
-> [!NOTE] WIP
+> [!NOTE]
 > This page is work in progress, and hopefully will stay WIP for the foreseeable future as I continue to create and share.
